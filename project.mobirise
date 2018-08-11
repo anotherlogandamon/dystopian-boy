@@ -45,13 +45,17 @@
     ],
     "uniqCompNum": 5,
     "versionPublish": "4.8.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dystopianboy-50x50.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Dystopianboy",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
