@@ -1516,6 +1516,34 @@ body {
   text-align: left;
   color: #ffffff;
 }
+.cid-r1i7pKbKzy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #efefef;
+}
+.cid-r1i7pKbKzy .image-block {
+  margin: auto;
+}
+.cid-r1i7pKbKzy .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r1i7pKbKzy figcaption {
+  position: relative;
+}
+.cid-r1i7pKbKzy figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r1i7pKbKzy .image-block {
+    width: 100% !important;
+  }
+}
+.cid-r1i7pKbKzy DIV {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-r1dTRoj12t {
   padding-top: 60px;
   padding-bottom: 60px;
